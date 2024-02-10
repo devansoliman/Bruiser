@@ -1,3 +1,11 @@
+# Bruiser
+Built to last in tough streets and under tougher riders.
+
+### Specs
+- deck length: 32 inches
+- reinforcement method: carbon fiber layup, bolts
+- difficulty: hard
+
 ### Protective Equipment
 - disposable gloves
 - safety goggles
