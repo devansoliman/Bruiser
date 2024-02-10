@@ -3,7 +3,7 @@
 - safety goggles
 - respirator
 - long sleeves and closed-toe shoes
-- well ventilated environment
+- well ventilated workspace
 
 ### Tools
 - hex key
@@ -56,7 +56,7 @@ Prototype performed well with the following configuration:
 
 12. Drill the baseplate mounting holes through the carbon fiber layers.
 
-13. You may need to use a blade and/or sandpaper to remove any hardened resin that has dripped off or through the part onto the next face you plan to add carbon fiber.
+13. Use a blade and/or sandpaper to remove any hardened resin that has dripped off or through the part onto the next face you plan to add carbon fiber.
 
 14. Repeat steps **5-12** for the opposite face of the skateboard.
 
