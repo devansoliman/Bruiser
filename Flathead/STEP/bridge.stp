@@ -10,10 +10,10 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'bridge.stp',
-/* time_stamp */ '2023-10-03T23:44:54-07:00',
+/* time_stamp */ '2024-02-10T01:33:26-08:00',
 /* author */ ('devan'),
 /* organization */ (''),
-/* preprocessor_version */ 'ST-DEVELOPER v19.2',
+/* preprocessor_version */ 'ST-DEVELOPER v20',
 /* originating_system */ 'Autodesk Inventor 2024',
 /* authorisation */ '');
 
