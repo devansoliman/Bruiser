@@ -48,7 +48,7 @@ Prototype performed well with the following configuration:
 
 1. Sand all surfaces of the board until rough.
 
-2. Arrange the printed parts as follows: `nose`, `front bridge`, `rear bridge`, `tail`. Make sure all parts are oriented correctly.
+2. Arrange the printed parts as follows: `nose` (1), `front bridge` (2), `rear bridge` (3), `tail` (4). Align the direction/orientation of the number markings.
 
 3. Hammer the dovetail joints together. When connecting two pieces, alternate strikes between the center and sides of the board.
 
