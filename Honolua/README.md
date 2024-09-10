@@ -74,8 +74,8 @@ Prototype performed well with the following configuration:
 | # layers: top/bottom | effect |
 |---|---|
 | 2/2 | soft flex |
-| 2/3 | stiff flex |
-| 3/3 | symmetric stiff |
+| 2/3 | stability |
+| 3/4 | max stiff |
 
 11. Give the board a top coat of resin and hardener. You may need more than usual to permeate the carbon fiber and achieve a smooth finish (~200 mL). You can use a lighter to remove bubbles. Allow to cure.
 
