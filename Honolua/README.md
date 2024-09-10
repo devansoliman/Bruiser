@@ -82,7 +82,7 @@ Prototype performed well with the following configuration:
 > [!CAUTION]
 > At this point, handling the board is dangerous due to sharp edges/points created by hardened carbon fiber.
 
-12. Use a serrated blade to cut away overhangs and excess material.
+12. Use a serrated blade to cut away overhangs and excess material. Resin runoff should peel/pop right off. To reduce the risk of cutting into the board itself, cut carbon fiber overhangs to a sandable size; do not attempt remove completely.
 
 13. Drill the hardware holes.
 
