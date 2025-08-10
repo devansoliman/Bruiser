@@ -23,6 +23,8 @@ A two-part wheel incorporating urethane casting. For use with Fuselage and Honol
 - shells: **2**
 - supports: **no**
 
+Since `lower mold` is a flat object, a `.dxf` has been included for acrylic/metal cutting. It uses tighter tolerances than the `.stl` and `.step` files.
+
 ## Supplies
 ### Components
 - 70A urethane
