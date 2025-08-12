@@ -21,6 +21,8 @@ A two-part wheel incorporating urethane casting. For use with Fuselage and Honol
 - layer height: **0.1 mm** (for `sidewall` and `upper mold`)
 - infill: **30%**
 - shells: **2**
+- speed: **slow** (for `sidewall` and `upper mold` - better outer wall quality)
+- ironing: **yes** (for `lower mold` - can create two useable surfaces)
 - supports: **no**
 
 Since `lower mold` is a flat object, a `.dxf` has been included for acrylic/metal cutting. It uses tighter tolerances than the `.stl` and `.step` files.
@@ -50,9 +52,9 @@ Since `lower mold` is a flat object, a `.dxf` has been included for acrylic/meta
 - disposable gloves
 
 ## Casting
-1. Use a soldering iron to melt the threaded inserts into the 4 circular holes on the underside of the core.
+1. Use a soldering iron to melt the threaded inserts into the 4 circular holes on the underside of the `core`.
 2. Sand away excess material from the brim and heat-setting.
-3. Sand down layer lines as necessary on the `sidewall` and `uppermold`. Clean mold.
+3. Sand down layer lines and Z seams as necessary on the `sidewall` and `uppermold`. Clean and remove debris from the mold.
 4. Apply multiple coats of mold release or a very thin layer of petroleum jelly to the mold surfaces facing the pour. Layer lines should now only be barely visible.
 5. Assemble the mold: bolt the `core` to the `lower mold` using the M4 inserts, seat the `upper mold` above the `core` and secure with an M5 bolt and nut. Bolt the `sidewall` using the remaining M5 bolts and nuts.
 6. Set the assembled mold on a level surface. 
@@ -61,9 +63,12 @@ Since `lower mold` is a flat object, a `.dxf` has been included for acrylic/meta
 > [!TIP]
 > To account for urethane that seeps through small gaps in the mold or is hard to get out of the cup, you can mix **400 mL** of urethane after marking 200 mL and 400 mL on the cup instead.
 9. Pour the mixture into the mold. Allow to cure.
+> [!NOTE]
+> Alternatively, you can mix smaller batches until you fill the mold completely.
 10. Unbolt the mold assembly.
-11. Use the screwdrivers to separate the `lower mold` and `upper mold`. Use the chamfered sections of the `sidewall` and the lip of the `upper mold` to pry them apart.
+11. Use the screwdrivers to separate the `lower mold` and `upper mold` from the wheel. Use the chamfered sections of the `sidewall` and the lip of the `upper mold` to pry them apart.
 12. Wedge a screwdriver between the wheel and the `sidewall`. You should hear the urethane peel from the mold. Repeat in a circular pattern and on the opposite side of the wheel. Be careful not to cut into the urethane.
-13. Insert one of the bearings. Add the spacer. Insert the second bearing.
+13. Push the wheel through and out of the `sidewall`. If it does not slide freely, repeat step 12, focusing on areas still sticking to the mold.
+14. Insert one of the bearings into the `core`. Add the spacer. Insert the second bearing.
 > [!TIP]
 > You can use the axle of a truck to align the bearings and spacer as you press them in.
